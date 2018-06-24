@@ -34,7 +34,7 @@ namespace Appoint
             app.UseDeveloperExceptionPage();
             app.UseStatusCodePages();
             app.UseStaticFiles();
-            app.UseSession();
+            
             app.UseAuthentication();
             app.UseMvc(routes => {
                 routes.MapRoute(
