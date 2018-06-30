@@ -1,0 +1,11 @@
+C:\Users\Ujay\Documents\Thesis\ProMVC\Appoint\Appoint\bin\Debug\netcoreapp2.0\Appoint.deps.json
+C:\Users\Ujay\Documents\Thesis\ProMVC\Appoint\Appoint\bin\Debug\netcoreapp2.0\Appoint.runtimeconfig.json
+C:\Users\Ujay\Documents\Thesis\ProMVC\Appoint\Appoint\bin\Debug\netcoreapp2.0\Appoint.runtimeconfig.dev.json
+C:\Users\Ujay\Documents\Thesis\ProMVC\Appoint\Appoint\bin\Debug\netcoreapp2.0\Appoint.dll
+C:\Users\Ujay\Documents\Thesis\ProMVC\Appoint\Appoint\bin\Debug\netcoreapp2.0\Appoint.pdb
+C:\Users\Ujay\Documents\Thesis\ProMVC\Appoint\Appoint\obj\Debug\netcoreapp2.0\Appoint.csproj.CoreCompileInputs.cache
+C:\Users\Ujay\Documents\Thesis\ProMVC\Appoint\Appoint\obj\Debug\netcoreapp2.0\Appoint.AssemblyInfoInputs.cache
+C:\Users\Ujay\Documents\Thesis\ProMVC\Appoint\Appoint\obj\Debug\netcoreapp2.0\Appoint.AssemblyInfo.cs
+C:\Users\Ujay\Documents\Thesis\ProMVC\Appoint\Appoint\obj\Debug\netcoreapp2.0\Appoint.dll
+C:\Users\Ujay\Documents\Thesis\ProMVC\Appoint\Appoint\obj\Debug\netcoreapp2.0\Appoint.pdb
+C:\Users\Ujay\Documents\Thesis\ProMVC\Appoint\Appoint\obj\Debug\netcoreapp2.0\Appoint.csprojResolveAssemblyReference.cache
