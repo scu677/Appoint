@@ -3,32 +3,121 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Appoint</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet"
-          asp-href-include="/lib/bootstrap/dist/**/*.min.css"
-          asp-href-exclude="**/*-reboot*,**/*-grid*" />
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" asp-href-include="/lib/bootstrap/dist/**/*.min.css" asp-href-exclude="**/*-reboot*,**/*-grid*">
+    
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <link href="~/style.css" rel="stylesheet" />
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+     <script src="https://code.jquery.com/jquery-3.3.1.js"  integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/style.css" rel="stylesheet" type="text/css" />
+    <script defersrc="/static/fontawesome/fontawesome-all.js"></script>
+    <!--<link href="~/css/signin.css" rel="stylesheet" type="text/css"/> -->
 
 </head>
 <body>
-    
+    <div class="pos-f-t">
+
+
+        <nav class="navbar navbar-expand-sm navbar-light bg-light ">
+
+            <a class="navbar-brand" href="/Home/Index"><img src="~/Assets/img/appoint.jpg" alt="Logo img" style="height:inherit; margin-top:inherit; margin-bottom:inherit;"></a>
+
+            <button class="navbar-toggler mr-md-3" type="button" data-toggle="collapse" data-target="#myNavbar" aria-controls="myNavbar" aria-expanded="false" aria-label="ToggleNavigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <!-- place navbar coontents here-->
+
+            <div class="collapse navbar-collapse" id="myNavbar" style="background-color:transparent">
+                <ul class="nav navbar-nav">
+                    <li class=""><a href="/Home/Index">Home</a></li>
+
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Profile</a>
+                        <ul class="dropdown-menu" style="font-size:10px">
+                            <li><a href="/Home/profile">User</a></li>
+                            <li><a href="/Home/partner">Partner</a></li>
+                        </ul>
+                    </li>
+
+                </ul>
+
+
+            </div>
+        </nav>
+    </div>
+
     <!-- End header section -->
 
     <div class="container-fluid body-content">
         <div>
-            
+
             @RenderBody()
         </div>
     </div>
 
     <!-- Start Footer -->
-  
+    <footer class="modal-footer" style="background:#ff6666; color:white; text-align:center">
+        <div class="container">
+            <!--First column-->
+            <div class="col-md-3">
+                <h6 class="text-uppercase"><a href="#!">About Appoint</a></h6>
+                <h6 class="text-uppercase"><a href="#!">FAQs</a></h6>
+                <h6>Privacy Policy</h6>
+                <h6>Terms & Conditions</h6>
+
+            </div>
+            <!--/.First column-->
+            <!--Second column-->
+            <div class="col-md-3">
+                <h6 class="text-uppercase">Services</h6>
+                <h6 class="text-uppercase"><a href="#!">Book Appoints</a></h6>
+
+            </div>
+            <!--/.Second column-->
+            <!--Third column-->
+            <div class="col-md-3">
+                <h6 class="text-uppercase">Other Links</h6>
+                <h6 class="text-uppercase"><a href="#!">Your Account</a></h6>
+                <h6 class="text-uppercase"><a href="#!">Become a Partner</a></h6>
+
+            </div>
+            <!--/.Third column-->
+            <!--Fourth column-->
+            <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
+                <h6 class="text-uppercase mb-4 font-weight-bold">Contact Us</h6>
+                <h6 class="text-uppercase"><i class="fa fa-address mr-3"></i>  St.John's,  NL, Canada</h6>
+                <h6 class="text-uppercase"><i class="fa fa-envelope mr-3"></i> appoint.mun@gmail.com</h6>
+                <h6 class="text-uppercase"><i class="fa fa-phone mr-3"></i>phone </h6>
+                <h6 class="text-uppercase"><i class="fa fa-print mr-3"></i>fax</h6>
+            </div>
+            <!--/.Fourth column-->
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="mu-footer-area text-uppercase">
+                        <div class="mu-footer-social">
+                            <a href="#" class="fa fa-facebook"></a>
+                            <a href="#"><span class="fa fa-twitter"></span></a>
+                            <a href="#"><span class="fa fa-instagram"></span></a>
+                            <a href="#"><span class="fa fa-linkedin"></span></a>
+
+                        </div>
+                        <div class="mu-footer-copyright">
+                            <h6 class="text-uppercase">&copy; @DateTime.Now.Year Appoint</h6>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+    <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.7.1.min.js"></script>
+    <script type="text/javascript" src="slick/slick.min.js"></script>
 
 </body>
 </html>

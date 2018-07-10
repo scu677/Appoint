@@ -9,3 +9,14 @@ C:\Users\Ujay\Documents\Thesis\ProMVC\Appoint\Appoint\obj\Debug\netcoreapp2.0\Ap
 C:\Users\Ujay\Documents\Thesis\ProMVC\Appoint\Appoint\obj\Debug\netcoreapp2.0\Appoint.dll
 C:\Users\Ujay\Documents\Thesis\ProMVC\Appoint\Appoint\obj\Debug\netcoreapp2.0\Appoint.pdb
 C:\Users\Ujay\Documents\Thesis\ProMVC\Appoint\Appoint\obj\Debug\netcoreapp2.0\Appoint.csprojResolveAssemblyReference.cache
+C:\Users\Appoint\Appointtest\Appoint\Appoint\Appoint\bin\Debug\netcoreapp2.0\Appoint.deps.json
+C:\Users\Appoint\Appointtest\Appoint\Appoint\Appoint\bin\Debug\netcoreapp2.0\Appoint.runtimeconfig.json
+C:\Users\Appoint\Appointtest\Appoint\Appoint\Appoint\bin\Debug\netcoreapp2.0\Appoint.runtimeconfig.dev.json
+C:\Users\Appoint\Appointtest\Appoint\Appoint\Appoint\bin\Debug\netcoreapp2.0\Appoint.dll
+C:\Users\Appoint\Appointtest\Appoint\Appoint\Appoint\bin\Debug\netcoreapp2.0\Appoint.pdb
+C:\Users\Appoint\Appointtest\Appoint\Appoint\Appoint\obj\Debug\netcoreapp2.0\Appoint.csprojAssemblyReference.cache
+C:\Users\Appoint\Appointtest\Appoint\Appoint\Appoint\obj\Debug\netcoreapp2.0\Appoint.csproj.CoreCompileInputs.cache
+C:\Users\Appoint\Appointtest\Appoint\Appoint\Appoint\obj\Debug\netcoreapp2.0\Appoint.AssemblyInfoInputs.cache
+C:\Users\Appoint\Appointtest\Appoint\Appoint\Appoint\obj\Debug\netcoreapp2.0\Appoint.AssemblyInfo.cs
+C:\Users\Appoint\Appointtest\Appoint\Appoint\Appoint\obj\Debug\netcoreapp2.0\Appoint.dll
+C:\Users\Appoint\Appointtest\Appoint\Appoint\Appoint\obj\Debug\netcoreapp2.0\Appoint.pdb

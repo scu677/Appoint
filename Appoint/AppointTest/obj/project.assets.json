@@ -1787,7 +1787,7 @@
       ]
     },
     "Microsoft.NETCore.App/2.0.0": {
-      "sha512": "URC31rubpUtq33njSlniCUvK691xXjgAPNkc8/3CgFUkl2b6+z/MNVM7nDvSY7ySHpCli/9IZxJKq8UZBodrpQ==",
+      "sha512": "/mzXF+UtZef+VpzzN88EpvFq5U6z4rj54ZMq/J968H6pcvyLOmcupmTRpJ3CJm8ILoCGh9WI7qpDdiKtuzswrQ==",
       "type": "package",
       "path": "microsoft.netcore.app/2.0.0",
       "files": [
@@ -2065,7 +2065,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetAppHost/2.0.0": {
-      "sha512": "MrlUhS8RBhPrk+FNRHqzC/o6uTLU8/UFjV1HaTnN/KZTPjJkTNZHq4d1FQMaK7vNP+AWOrgTLln1KqKJmByTlQ==",
+      "sha512": "L4GGkcI/Mxl8PKLRpFdGmLb5oI8sGIR05bDTGkzCoamAjdUl1Zhkov2swjEsZvKYT8kkdiz39LtwyGYuCJxm1A==",
       "type": "package",
       "path": "microsoft.netcore.dotnetapphost/2.0.0",
       "files": [
@@ -2077,7 +2077,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostPolicy/2.0.0": {
-      "sha512": "+VeDesd2zoQ5GoFTjkX4WVJYygBvthpp+D2rB1u9txuiQx37iUAgGC7d78s4L/qO789EB+bEqe9d94Q/O/CPDg==",
+      "sha512": "rm7mMn0A93fwyAwVhbyOCcPuu2hZNL0A0dAur9sNG9pEkONPfCEQeF7m2mC8KpqZO0Ol6tpV5J0AF3HTXT3GXA==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostpolicy/2.0.0",
       "files": [
@@ -2089,7 +2089,7 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostResolver/2.0.0": {
-      "sha512": "zjsTVWLrNtzL8FWz5bKrQj2tB3+a2fFhEQGpYL9+UzTPfDjjjuemzYvjxHzfMp4JtVD9rkp4xqJmZc3nfTWfcQ==",
+      "sha512": "uBbjpeSrwsaTCADZCzRk+3aBzNnMqkC4zftJWBsL+Zk+8u+W+/lMb2thM5Y4hiVrv1YQg9t6dKldXzOKkY+pQw==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostresolver/2.0.0",
       "files": [
@@ -2407,7 +2407,7 @@
       ]
     },
     "NETStandard.Library/2.0.0": {
-      "sha512": "Be2JgNuHz/CNfa2ueGPrtf41kNVppSvt7aZD5wjxfjBqisDuHtvqXJ0d7akCd0qs4HEVCCOgyCqyq8pSinxHLQ==",
+      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
       "type": "package",
       "path": "netstandard.library/2.0.0",
       "files": [
@@ -5613,7 +5613,7 @@
       ]
     },
     "xunit.analyzers/0.7.0": {
-      "sha512": "YLyB3zDIbuliqMPOeGNp4BbNKrAMmoU0RI3DqJrPIaHJ2u1l3c9hILxUgY2DoKN2nSRgaIhGVdZ4tNSDtnaZQg==",
+      "sha512": "pEjPJ/pd+r9blGBJ9bXg961phkAiCl4k2DwxwWGEZyYC/7Tb1xJ1az0H18uGANX7zFIkvE5ZO1eZZ4vU7gny7w==",
       "type": "package",
       "path": "xunit.analyzers/0.7.0",
       "files": [
@@ -5713,26 +5713,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ujay\\.nuget\\packages\\": {},
+    "C:\\Users\\Appoint\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ujay\\Documents\\Thesis\\ProMVC\\Appoint\\AppointTest\\AppointTest.csproj",
+      "projectUniqueName": "C:\\Users\\Appoint\\Appointtest\\Appoint\\Appoint\\AppointTest\\AppointTest.csproj",
       "projectName": "AppointTest",
-      "projectPath": "C:\\Users\\Ujay\\Documents\\Thesis\\ProMVC\\Appoint\\AppointTest\\AppointTest.csproj",
-      "packagesPath": "C:\\Users\\Ujay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ujay\\Documents\\Thesis\\ProMVC\\Appoint\\AppointTest\\obj\\",
+      "projectPath": "C:\\Users\\Appoint\\Appointtest\\Appoint\\Appoint\\AppointTest\\AppointTest.csproj",
+      "packagesPath": "C:\\Users\\Appoint\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Appoint\\Appointtest\\Appoint\\Appoint\\AppointTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ujay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Appoint\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5740,8 +5737,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://www.myget.org/F/aspnet-contrib/api/v3/index.json": {},
-        "https://www.nuget.org/api/v2/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
