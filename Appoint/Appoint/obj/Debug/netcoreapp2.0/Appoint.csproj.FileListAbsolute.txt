@@ -20,3 +20,4 @@ C:\Users\Appoint\Appointtest\Appoint\Appoint\Appoint\obj\Debug\netcoreapp2.0\App
 C:\Users\Appoint\Appointtest\Appoint\Appoint\Appoint\obj\Debug\netcoreapp2.0\Appoint.AssemblyInfo.cs
 C:\Users\Appoint\Appointtest\Appoint\Appoint\Appoint\obj\Debug\netcoreapp2.0\Appoint.dll
 C:\Users\Appoint\Appointtest\Appoint\Appoint\Appoint\obj\Debug\netcoreapp2.0\Appoint.pdb
+C:\Users\Appoint\Appointtest\Appoint\Appoint\Appoint\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
