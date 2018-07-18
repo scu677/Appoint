@@ -1,7 +1,84 @@
 ﻿
+@model IEnumerable<Appoint.Models.User_Client>
 @{
     ViewData["Title"] = "Index";
 }
 
-<h2>Index</h2>
+<div class="sidebar">
+    <nav>
+        <div class="sidebar-header">
+
+
+            <div class="text-center"><img style="max-width:25%; align-items:center" src="~/Assets/img/appoint.jpg" alt="appoint"></div>
+            <h3 class="text-center">User Name</h3>
+
+        </div>
+        <div class="list-group text-center" id="mylist" style="max-width:inherit">
+
+            <a href="#update_panel" class="list-group-item" data-toggle="collapse" data-target="#profile">
+                <i class="glyphicon glyphicon-user"></i>Profile
+            </a>
+            <div id="profile" class="collapse panel panel-container" style="max-width:inherit">
+                <div class="panel-heading">Update Profile</div>
+
+
+
+                <form class="form-inline" action="#">
+                    <div class="form-group">
+
+                        <input type="text" class="form-control" placeholder="Name" id="name">
+                    </div>
+                    <div class="form-group">
+
+                        <input type="text" class="form-control" placeholder="Email" id="email">
+                    </div>
+                    <div class="form-group">
+
+                        <input type="text" class="form-control" placeholder="Address" id="address">
+                    </div>
+                    <div class="form-group">
+
+                        <input type="text" class="form-control" placeholder="Phone" id="phone">
+                    </div>
+                    <div class="form-group">
+
+                        <input type="text" class="form-control" placeholder="City" id="city">
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group-prepend">
+                            <button class="btn btn-outline-secondary" type="button">Button</button>
+                        </div>
+                        <!-- <distributed-cache type="submit" class="btn btn-default">Save</distributed-cache>-->
+                    </div>
+                </form>
+
+            </div>
+
+            <a href="#appoint_panel" class="list-group-item" data-toggle="collapse">
+                <i class="glyphicon glyphicon-user"></i>
+                Make Appointment
+            </a>
+            <a href="#bookings_panel" class="list-group-item" data-toggle="collapse" data-target="#bookings">
+                <i class="glyphicon glyphicon-calendar"></i>My Bookings
+            </a>
+            <div id="bookings" style="text-align:center" class="collapse panel panel-container">
+                <div class="text-center">Bookings</div>
+                <div class="text-center">List All Bookings Here</div>
+            </div>
+
+            <a href="#" class="list-group-item">
+                <i class="glyphicon glyphicon-briefcase"></i>
+                Become a partner
+            </a>
+
+            <a href="#" class="list-group-item">
+                <i class="glyphicon glyphicon-user"></i>
+                Logout
+            </a>
+        </div>
+    </nav>
+
+</div>
+
+
 
